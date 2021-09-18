@@ -3,7 +3,7 @@
  * Autores: Miguel Ángel Latre
  * Modificado por: ¡PON AQUÍ TU NOMBRE!
  * Última revisión: 18 de septiembre de 2021
- * Resumen: Tarea 3 y 4.
+ * Resumen: Tarea 3 y 4
  ******************************************************************************/
 #include <iostream>
 using namespace std;
