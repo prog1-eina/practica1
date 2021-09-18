@@ -1,10 +1,9 @@
-/*
+/*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 16 de septiembre de 2020
- * Resumen: Programa que solicita un número entero al usuario y lo escribe en 
- *          pantalla.
- */
+ * Última revisión: 18 de septiembre de 2021
+ * Resumen: Tarea 3 y 4.
+ ******************************************************************************/
 #include <iostream>
 using namespace std;
 
