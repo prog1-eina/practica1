@@ -30,7 +30,7 @@ int main() {
     // indexada» o bucle «for» que veremos con detalle en el tema 5. Mientras
     // tanto, puede bastar saber que la instrucción de escritura en la pantalla
     // que aparece en el cuerpo del «for» se va a repetir varias veces (en
-    // concreto, 24 veces), con el valor del dato varible «x» cambiando de
+    // concreto, 24 veces), con el valor del dato variable «x» cambiando de
     // iteración en iteración. La primera vez que se ejecute (1ª iteración), x
     // habrá tomado el valor 1; la segunda vez que se ejecute, x valdrá 2 y así
     // sucesivamente irá incrementando su valor hasta que en la 24ª y última
