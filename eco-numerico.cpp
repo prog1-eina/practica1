@@ -18,6 +18,4 @@ int main() {
     cin >> numero;
     
     cout << "El entero escrito es el " << numero << endl;
-
-    return 0;
 }

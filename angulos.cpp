@@ -44,6 +44,4 @@ int main() {
         double radianes = M_PI * grados / 180.0;
         cout << grados << radianes << sin(radianes) << cos(radianes) << endl;
     }
-
-    return 0;
 }

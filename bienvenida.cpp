@@ -13,5 +13,4 @@
  */
 int main() {
     std::cout << "Bienvenidos a UNIZAR" << std::endl;
-    return 0;
 }
