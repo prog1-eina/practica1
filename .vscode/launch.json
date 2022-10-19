@@ -8,7 +8,7 @@
             "name": "Depurar fichero activo en el editor",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
@@ -16,7 +16,10 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "osx": {
-                "MIMode": "lldb"
+                "type": "lldb",
+                "MIMode": "lldb",
+                "args": ["-arg1", "-arg2"],
+                "console": "externalTerminal",
             },
             "setupCommands": [
                 {

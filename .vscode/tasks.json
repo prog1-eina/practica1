@@ -1,6 +1,12 @@
 {
     "tasks": [
         {
+            "label": "Open Terminal",
+            "type": "shell",
+            "command": "osascript -e 'tell application \"Terminal\"\ndo script \"echo hello\"\nend tell'",
+            "problemMatcher": []
+        },
+        {
             "type": "shell",
             "label": "Compilar fichero activo en el editor",
             "command": "g++",
