@@ -16,7 +16,7 @@
                 "-Wextra",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
