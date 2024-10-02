@@ -25,7 +25,7 @@ using namespace std;
  *       180   3.1416   0.0000  -1.0000
  */
 int main() {
-    const int ANCHO = 9;
+    const unsigned ANCHO = 9;
     cout << "Grados" << "Radianes" << "Seno" << "Coseno"
          << endl;
 
