@@ -1,18 +1,18 @@
-/*******************************************************************************
+/******************************************************************************
  * Curso de Programación 1. Práctica 1
  * Autores: Miguel Ángel Latre y Javier Martínez
  * Modificado por: ¡PON AQUÍ TU NOMBRE!
  * Última revisión: 7 de septiembre de 2025
  * Resumen: Tarea 7
- ******************************************************************************/
+ *****************************************************************************/
 #include <iostream>
 #include <cmath>
 using namespace std;
 
 /*
  * Programa que escribe en la pantalla una tabla de ángulos y valores
- * trigonométricos: en cada línea un valor de grados múltiplo de 10 entre el 0 y
- * el 180, su equivalente en radianes y su seno y coseno, de acuerdo con el
+ * trigonométricos: en cada línea un valor de grados múltiplo de 10 entre el 0
+ * y el 180, su equivalente en radianes y su seno y coseno, de acuerdo con el
  * siguiente formato:
  * 
  *    Grados Radianes     Seno   Coseno
