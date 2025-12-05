@@ -11,7 +11,7 @@
             "label": "Compilar fichero activo en el editor",
             "command": "g++",
             "args": [
-                "-g",
+                "-Og",
                 "-Wall",
                 "-Wextra",
                 "${file}",
