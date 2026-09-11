@@ -2,7 +2,6 @@
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Modificado por: ¡PON AQUÍ TU NOMBRE!
- * Última revisión: 18 de septiembre de 2021
  * Resumen: Tareas 3 y 4
  *****************************************************************************/
 #include <iostream>

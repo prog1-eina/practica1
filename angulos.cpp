@@ -2,7 +2,6 @@
  * Curso de Programación 1. Práctica 1
  * Autores: Miguel Ángel Latre y Javier Martínez
  * Modificado por: ¡PON AQUÍ TU NOMBRE!
- * Última revisión: 7 de septiembre de 2025
  * Resumen: Tarea 7
  *****************************************************************************/
 #include <iostream>
